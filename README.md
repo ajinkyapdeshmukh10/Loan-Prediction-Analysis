@@ -1,4 +1,4 @@
-## **Loan Prediction System for Banks**
+## **Loan Prediction System for Banks  **![](figures/LoanPredictionAnalysis.webp)
 
 **Project Description:**
 
